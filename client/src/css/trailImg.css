@@ -1,0 +1,24 @@
+/* * {
+text-align: center;
+} */
+.image {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #fee123;
+  }
+  
+  .img-wrapper {
+    width: 35vw;
+    height: 30vh;
+  }
+  
+  .infoRatingContainer {
+    width: 50%;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    padding: 1%;
+  }
